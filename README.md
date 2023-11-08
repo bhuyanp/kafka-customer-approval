@@ -27,4 +27,7 @@ Goto their respective directories and run
 
 ❯ mvn spring-boot:run
 
+### Create Customer
+Goto http://localhost:8080 and add customer using 
+swagger ui.
 
