@@ -19,10 +19,12 @@ rating received.
 
 ### Start Customer Service
 ❯ cd customer-service
+
 ❯ mvn spring-boot:run
 
 ### Start DnB Service and Experian Service
 Goto their respective directories and run
+
 ❯ mvn spring-boot:run
 
 
